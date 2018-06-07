@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "ask-sdk-core": "^2.0.0",
-    "ask-sdk-model": "^1.0.0"
+    "ask-sdk-model": "^1.0.0",
+    "fortnite": "^4.1.1",
+    "fortnite-api": "^2.12.0",
+    "fortnite-client": "^1.0.4"
   }
 }
