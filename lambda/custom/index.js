@@ -31,6 +31,7 @@ const GetNewsIntentHandler = {
       && handlerInput.requestEnvelope.request.intent.name === 'getNewsIntent';
   },
   handle(handlerInput) {
+    // must return a promise, async API calls
     return new Promise((resolve) => {
       getApi((news) => {
         // Form speech text
