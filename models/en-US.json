@@ -1,0 +1,45 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "fortnite news",
+      "types": [
+
+      ],
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": [
+
+          ]
+        },
+        {
+          "name": "getNewsIntent",
+          "slots": [
+
+          ],
+          "samples": [
+            "fortnite news",
+            "get me news",
+            "what is the fortnite update",
+            "get me the update",
+            "what is the update",
+            "what are the updates",
+            "updates"
+          ]
+        }
+      ]
+    }
+  }
+}

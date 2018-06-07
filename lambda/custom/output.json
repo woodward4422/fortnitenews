@@ -1,0 +1,26 @@
+{ common: 
+    { image: 'https://cdn2.unrealengine.com/Fortnite/RUS-Axe-1921x1082-fb41e51e9a280b9752b42e2b94b31e34d5758870.png',
+      _type: 'CommonUI Simple Message Base',
+      title: 'Test',
+      body: 'Test' },
+   br: 
+    [ { image: 'https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v43/BR04_MOTD_Bouncer-256x256-ec4fb5cf33a2634e1515e29c809b1c701b894618.png',
+        hidden: false,
+        _type: 'CommonUI Simple Message Base',
+        title: 'Bouncer - Available Now',
+        body: 'Place this pad for a big bounce boost - no fall damage!' },
+      { image: 'https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v43/BR04_MOTD_Teamsof20-256x256-df53c30a29eef61a2525b6cc4ce2c20893fcbdd1.png',
+        hidden: false,
+        _type: 'CommonUI Simple Message Base',
+        title: 'Teams Of 20 v2 LTM',
+        body: 'Five teams of twenty players - each team drops from their own Battle Bus!' },
+      { image: 'https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v41/BR04_MOTD_Twitch2-256x256-1f40376b5a8922bbbe7f9d4ca885d980c33a39dd.png',
+        hidden: false,
+        _type: 'CommonUI Simple Message Base',
+        title: 'Twitch Prime Pack #2',
+        body: 'Claim an exclusive outfit, back bling, pickaxe and emote… now free for Twitch Prime subs: epic.gm/twitchprime' } ],
+   loginmessage: { _type: 'CommonUI Simple Message Base', title: '', body: '' },
+   survivalmessage: 
+    { _type: 'CommonUI Simple Message Base',
+      title: 'The Survive the Storm event is now live!',
+      body: 'Take the pledge:\nSelect a target survival time of 3 or 7 nights.\n\nSend Feedback:\nSurvive the Storm is still in development. We’d love to hear what you think.' } }
