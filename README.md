@@ -6,3 +6,5 @@ Visit the Alexa Skill [here](https://www.amazon.com/b?ie=UTF8&node=13727921011) 
 
 ## Invocation 
 Start the skill by saying "Alexa, Open Fortnite News", and enjoy!
+
+A skill made in collaboration of Noah Woodward and Nils Backe
