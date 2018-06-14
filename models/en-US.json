@@ -2,33 +2,23 @@
   "interactionModel": {
     "languageModel": {
       "invocationName": "fortnite news",
-      "types": [
-
-      ],
+      "types": [],
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
-          "samples": [
-
-          ]
+          "samples": []
         },
         {
           "name": "AMAZON.HelpIntent",
-          "samples": [
-
-          ]
+          "samples": []
         },
         {
           "name": "AMAZON.StopIntent",
-          "samples": [
-
-          ]
+          "samples": []
         },
         {
           "name": "getNewsIntent",
-          "slots": [
-
-          ],
+          "slots": [],
           "samples": [
             "fortnite news",
             "get me news",
@@ -38,6 +28,33 @@
             "what is the update",
             "what are the updates",
             "updates"
+          ]
+        },
+        {
+          "name": "getStatusIntent",
+          "slots": [],
+          "samples": [
+            "are the servers up",
+            "are the servers down",
+            "are the fortnite servers up",
+            "are the fortnite servers down",
+            "get the server status",
+            "get server status",
+            "tell me the server status"
+          ]
+        },
+        {
+          "name": "getDropIntent",
+          "slots": [],
+          "samples": [
+            "where we dropping boys",
+            "where should I drop",
+            "pick a drop location for me",
+            "get me a drop location",
+            "drop location",
+            "drop",
+            "where am i dropping",
+            "pick me a drop location"
           ]
         }
       ]
